@@ -1,0 +1,330 @@
+ParliamentNumber,SessionNumber,DecisionEventDateTime,DecisionDivisionNumber,PersonShortSalutation,ConstituencyName,VoteValueName,PersonOfficialFirstName,PersonOfficialLastName,ConstituencyProvinceTerritoryName,CaucusShortName,IsVoteYea,IsVoteNay,IsVotePaired,DecisionResultName,PersonId
+44,1,2022-03-24T18:13:00,47,Mr.,Edmonton Manning,Nay,Ziad,Aboultaif,Alberta,Conservative,false,true,false,Agreed To,89156
+44,1,2022-03-24T18:13:00,47,Mr.,Parry Sound—Muskoka,Nay,Scott,Aitchison,Ontario,Conservative,false,true,false,Agreed To,105340
+44,1,2022-03-24T18:13:00,47,Mr.,Central Okanagan—Similkameen—Nicola,Nay,Dan,Albas,British Columbia,Conservative,false,true,false,Agreed To,72029
+44,1,2022-03-24T18:13:00,47,Mr.,Cloverdale—Langley City,Yea,John,Aldag,British Columbia,Liberal,true,false,false,Agreed To,89258
+44,1,2022-03-24T18:13:00,47,Mr.,Mississauga Centre,Yea,Omar,Alghabra,Ontario,Liberal,true,false,false,Agreed To,89535
+44,1,2022-03-24T18:13:00,47,Mr.,Brampton Centre,Yea,Shafqat,Ali,Ontario,Liberal,true,false,false,Agreed To,110339
+44,1,2022-03-24T18:13:00,47,Mr.,Niagara West,Nay,Dean,Allison,Ontario,Conservative,false,true,false,Agreed To,25446
+44,1,2022-03-24T18:13:00,47,Ms.,Oakville,Yea,Anita,Anand,Ontario,Liberal,true,false,false,Agreed To,96081
+44,1,2022-03-24T18:13:00,47,Mr.,Scarborough—Rouge Park,Yea,Gary,Anandasangaree,Ontario,Liberal,true,false,false,Agreed To,89449
+44,1,2022-03-24T18:13:00,47,Mr.,Timmins—James Bay,Yea,Charlie,Angus,Ontario,NDP,true,false,false,Agreed To,25470
+44,1,2022-03-24T18:13:00,47,Mr.,North Okanagan—Shuswap,Nay,Mel,Arnold,British Columbia,Conservative,false,true,false,Agreed To,89294
+44,1,2022-03-24T18:13:00,47,Mr.,Madawaska—Restigouche,Yea,René,Arseneault,New Brunswick,Liberal,true,false,false,Agreed To,89383
+44,1,2022-03-24T18:13:00,47,Mr.,Nepean,Yea,Chandra,Arya,Ontario,Liberal,true,false,false,Agreed To,88860
+44,1,2022-03-24T18:13:00,47,Ms.,Churchill—Keewatinook Aski,Yea,Niki,Ashton,Manitoba,NDP,true,false,false,Agreed To,36037
+44,1,2022-03-24T18:13:00,47,Mrs.,Fredericton,Yea,Jenica,Atwin,New Brunswick,Liberal,true,false,false,Agreed To,104586
+44,1,2022-03-24T18:13:00,47,Mr.,Skeena—Bulkley Valley,Yea,Taylor,Bachrach,British Columbia,NDP,true,false,false,Agreed To,105854
+44,1,2022-03-24T18:13:00,47,Mr.,Niagara Centre,Yea,Vance,Badawey,Ontario,Liberal,true,false,false,Agreed To,88867
+44,1,2022-03-24T18:13:00,47,Mr.,Steveston—Richmond East,Yea,Parm,Bains,British Columbia,Liberal,true,false,false,Agreed To,111067
+44,1,2022-03-24T18:13:00,47,Mr.,Etobicoke Centre,Yea,Yvan,Baker,Ontario,Liberal,true,false,false,Agreed To,105121
+44,1,2022-03-24T18:13:00,47,Mr.,Niagara Falls,Nay,Tony,Baldinelli,Ontario,Conservative,false,true,false,Agreed To,30330
+44,1,2022-03-24T18:13:00,47,Mr.,Foothills,Nay,John,Barlow,Alberta,Conservative,false,true,false,Agreed To,86261
+44,1,2022-03-24T18:13:00,47,Mr.,Leeds—Grenville—Thousand Islands and Rideau Lakes,Nay,Michael,Barrett,Ontario,Conservative,false,true,false,Agreed To,102275
+44,1,2022-03-24T18:13:00,47,Ms.,Nanaimo—Ladysmith,Yea,Lisa Marie,Barron,British Columbia,NDP,true,false,false,Agreed To,111023
+44,1,2022-03-24T18:13:00,47,Mr.,Pierre-Boucher—Les Patriotes—Verchères,Yea,Xavier,Barsalou-Duval,Quebec,Bloc Québécois,true,false,false,Agreed To,88422
+44,1,2022-03-24T18:13:00,47,Mr.,Sydney—Victoria,Yea,Jaime,Battiste,Nova Scotia,Liberal,true,false,false,Agreed To,104571
+44,1,2022-03-24T18:13:00,47,Mr.,La Pointe-de-l'Île,Yea,Mario,Beaulieu,Quebec,Bloc Québécois,true,false,false,Agreed To,376
+44,1,2022-03-24T18:13:00,47,Mr.,Burnaby North—Seymour,Yea,Terry,Beech,British Columbia,Liberal,true,false,false,Agreed To,89236
+44,1,2022-03-24T18:13:00,47,Ms.,Outremont,Yea,Rachel,Bendayan,Quebec,Liberal,true,false,false,Agreed To,88567
+44,1,2022-03-24T18:13:00,47,Ms.,Toronto—St. Paul's,Yea,Carolyn,Bennett,Ontario,Liberal,true,false,false,Agreed To,992
+44,1,2022-03-24T18:13:00,47,Mr.,Calgary Heritage,Nay,Bob,Benzen,Alberta,Conservative,false,true,false,Agreed To,96361
+44,1,2022-03-24T18:13:00,47,Ms.,Portage—Lisgar,Nay,Candice,Bergen,Manitoba,Conservative,false,true,false,Agreed To,59110
+44,1,2022-03-24T18:13:00,47,Mr.,Montarville,Yea,Stéphane,Bergeron,Quebec,Bloc Québécois,true,false,false,Agreed To,496
+44,1,2022-03-24T18:13:00,47,Mr.,Mégantic—L'Érable,Nay,Luc,Berthold,Quebec,Conservative,false,true,false,Agreed To,88541
+44,1,2022-03-24T18:13:00,47,Ms.,Abitibi—Baie-James—Nunavik—Eeyou,Yea,Sylvie,Bérubé,Quebec,Bloc Québécois,true,false,false,Agreed To,104622
+44,1,2022-03-24T18:13:00,47,Mr.,Selkirk—Interlake—Eastman,Nay,James,Bezan,Manitoba,Conservative,false,true,false,Agreed To,25475
+44,1,2022-03-24T18:13:00,47,Ms.,Compton—Stanstead,Yea,Marie-Claude,Bibeau,Quebec,Liberal,true,false,false,Agreed To,88449
+44,1,2022-03-24T18:13:00,47,Mr.,St. Catharines,Yea,Chris,Bittle,Ontario,Liberal,true,false,false,Agreed To,88934
+44,1,2022-03-24T18:13:00,47,Mr.,Elmwood—Transcona,Yea,Daniel,Blaikie,Manitoba,NDP,true,false,false,Agreed To,89032
+44,1,2022-03-24T18:13:00,47,Mr.,Scarborough Southwest,Yea,Bill,Blair,Ontario,Liberal,true,false,false,Agreed To,88961
+44,1,2022-03-24T18:13:00,47,Mr.,Beloeil—Chambly,Yea,Yves-François,Blanchet,Quebec,Bloc Québécois,true,false,false,Agreed To,104669
+44,1,2022-03-24T18:13:00,47,Mr.,Rimouski-Neigette—Témiscouata—Les Basques,Yea,Maxime,Blanchette-Joncas,Quebec,Bloc Québécois,true,false,false,Agreed To,104705
+44,1,2022-03-24T18:13:00,47,Ms.,North Island—Powell River,Yea,Rachel,Blaney,British Columbia,NDP,true,false,false,Agreed To,89354
+44,1,2022-03-24T18:13:00,47,Mrs.,Carlton Trail—Eagle Creek,Nay,Kelly,Block,Saskatchewan,Conservative,false,true,false,Agreed To,59156
+44,1,2022-03-24T18:13:00,47,Mr.,Kings—Hants,Yea,Kody,Blois,Nova Scotia,Liberal,true,false,false,Agreed To,104555
+44,1,2022-03-24T18:13:00,47,Mr.,Edmonton Centre,Yea,Randy,Boissonnault,Alberta,Liberal,true,false,false,Agreed To,89147
+44,1,2022-03-24T18:13:00,47,Mr.,Rosemont—La Petite-Patrie,Yea,Alexandre,Boulerice,Quebec,NDP,true,false,false,Agreed To,58775
+44,1,2022-03-24T18:13:00,47,Ms.,Kitchener South—Hespeler,Yea,Valerie,Bradford,Ontario,Liberal,true,false,false,Agreed To,110487
+44,1,2022-03-24T18:13:00,47,Mr.,Tobique—Mactaquac,Nay,Richard,Bragdon,New Brunswick,Conservative,false,true,false,Agreed To,88369
+44,1,2022-03-24T18:13:00,47,Mr.,Barrie—Innisfil,Nay,John,Brassard,Ontario,Conservative,false,true,false,Agreed To,88674
+44,1,2022-03-24T18:13:00,47,Mrs.,Sherbrooke,Yea,Élisabeth,Brière,Quebec,Liberal,true,false,false,Agreed To,104977
+44,1,2022-03-24T18:13:00,47,Mr.,Brantford—Brant,Nay,Larry,Brock,Ontario,Conservative,false,true,false,Agreed To,110354
+44,1,2022-03-24T18:13:00,47,Mr.,Lac-Saint-Jean,Yea,Alexis,Brunelle-Duceppe,Quebec,Bloc Québécois,true,false,false,Agreed To,104786
+44,1,2022-03-24T18:13:00,47,Mr.,Red Deer—Lacombe,Nay,Blaine,Calkins,Alberta,Conservative,false,true,false,Agreed To,35897
+44,1,2022-03-24T18:13:00,47,Mr.,South Okanagan—West Kootenay,Yea,Richard,Cannings,British Columbia,NDP,true,false,false,Agreed To,89327
+44,1,2022-03-24T18:13:00,47,Mr.,Kamloops—Thompson—Cariboo,Nay,Frank,Caputo,British Columbia,Conservative,false,true,false,Agreed To,111007
+44,1,2022-03-24T18:13:00,47,Mr.,Oshawa,Nay,Colin,Carrie,Ontario,Conservative,false,true,false,Agreed To,25486
+44,1,2022-03-24T18:13:00,47,Mr.,Charlottetown,Yea,Sean,Casey,Prince Edward Island,Liberal,true,false,false,Agreed To,71270
+44,1,2022-03-24T18:13:00,47,Ms.,Thérèse-De Blainville,Yea,Louise,Chabot,Quebec,Bloc Québécois,true,false,false,Agreed To,104678
+44,1,2022-03-24T18:13:00,47,Ms.,Waterloo,Yea,Bardish,Chagger,Ontario,Liberal,true,false,false,Agreed To,89000
+44,1,2022-03-24T18:13:00,47,Mr.,Calgary Skyview,Yea,George,Chahal,Alberta,Liberal,true,false,false,Agreed To,110882
+44,1,2022-03-24T18:13:00,47,Mr.,Simcoe North,Nay,Adam,Chambers,Ontario,Conservative,false,true,false,Agreed To,110649
+44,1,2022-03-24T18:13:00,47,Mr.,Saint-Maurice—Champlain,Yea,François-Philippe,Champagne,Quebec,Liberal,true,false,false,Agreed To,88633
+44,1,2022-03-24T18:13:00,47,Mr.,Drummond,Yea,Martin,Champoux,Quebec,Bloc Québécois,true,false,false,Agreed To,104741
+44,1,2022-03-24T18:13:00,47,Mrs.,Pontiac,Yea,Sophie,Chatel,Quebec,Liberal,true,false,false,Agreed To,110225
+44,1,2022-03-24T18:13:00,47,Mr.,Scarborough North,Yea,Shaun,Chen,Ontario,Liberal,true,false,false,Agreed To,88953
+44,1,2022-03-24T18:13:00,47,Mr.,Markham—Unionville,Yea,Paul,Chiang,Ontario,Liberal,true,false,false,Agreed To,110513
+44,1,2022-03-24T18:13:00,47,Mr.,Wellington—Halton Hills,Nay,Michael,Chong,Ontario,Conservative,false,true,false,Agreed To,25488
+44,1,2022-03-24T18:13:00,47,Mr.,Hamilton East—Stoney Creek,Yea,Chad,Collins,Ontario,Liberal,true,false,false,Agreed To,110438
+44,1,2022-03-24T18:13:00,47,Ms.,Victoria,Yea,Laurel,Collins,British Columbia,NDP,true,false,false,Agreed To,105908
+44,1,2022-03-24T18:13:00,47,Mr.,St. Albert—Edmonton,Nay,Michael,Cooper,Alberta,Conservative,false,true,false,Agreed To,89219
+44,1,2022-03-24T18:13:00,47,Mr.,Acadie—Bathurst,Yea,Serge,Cormier,New Brunswick,Liberal,true,false,false,Agreed To,88350
+44,1,2022-03-24T18:13:00,47,Mr.,Don Valley East,Yea,Michael,Coteau,Ontario,Liberal,true,false,false,Agreed To,110373
+44,1,2022-03-24T18:13:00,47,Ms.,Toronto—Danforth,Yea,Julie,Dabrusin,Ontario,Liberal,true,false,false,Agreed To,88994
+44,1,2022-03-24T18:13:00,47,Mr.,Pitt Meadows—Maple Ridge,Nay,Marc,Dalton,British Columbia,Conservative,false,true,false,Agreed To,35909
+44,1,2022-03-24T18:13:00,47,Ms.,Oakville North—Burlington,Yea,Pam,Damoff,Ontario,Liberal,true,false,false,Agreed To,88884
+44,1,2022-03-24T18:13:00,47,Ms.,Kildonan—St. Paul,Nay,Raquel,Dancho,Manitoba,Conservative,false,true,false,Agreed To,105521
+44,1,2022-03-24T18:13:00,47,Mr.,York—Simcoe,Nay,Scot,Davidson,Ontario,Conservative,false,true,false,Agreed To,102653
+44,1,2022-03-24T18:13:00,47,Mr.,Vancouver Kingsway,Yea,Don,Davies,British Columbia,NDP,true,false,false,Agreed To,59325
+44,1,2022-03-24T18:13:00,47,Mrs.,Salaberry—Suroît,Yea,Claude,DeBellefeuille,Quebec,Bloc Québécois,true,false,false,Agreed To,35315
+44,1,2022-03-24T18:13:00,47,Mr.,Louis-Saint-Laurent,Nay,Gérard,Deltell,Quebec,Conservative,false,true,false,Agreed To,88535
+44,1,2022-03-24T18:13:00,47,Mrs.,Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix,Yea,Caroline,Desbiens,Quebec,Bloc Québécois,true,false,false,Agreed To,104715
+44,1,2022-03-24T18:13:00,47,Mr.,Rivière-des-Mille-Îles,Yea,Luc,Desilets,Quebec,Bloc Québécois,true,false,false,Agreed To,104922
+44,1,2022-03-24T18:13:00,47,Mr.,Edmonton Griesbach,Yea,Blake,Desjarlais,Alberta,NDP,true,false,false,Agreed To,110889
+44,1,2022-03-24T18:13:00,47,Ms.,Dorval—Lachine—LaSalle,Yea,Anju,Dhillon,Quebec,Liberal,true,false,false,Agreed To,88453
+44,1,2022-03-24T18:13:00,47,Ms.,Halifax West,Yea,Lena Metlege,Diab,Nova Scotia,Liberal,true,false,false,Agreed To,109915
+44,1,2022-03-24T18:13:00,47,Mr.,Cariboo—Prince George,Nay,Todd,Doherty,British Columbia,Conservative,false,true,false,Agreed To,89249
+44,1,2022-03-24T18:13:00,47,Mr.,Don Valley North,Yea,Han,Dong,Ontario,Liberal,true,false,false,Agreed To,105091
+44,1,2022-03-24T18:13:00,47,Mr.,Simcoe—Grey,Nay,Terry,Dowdall,Ontario,Conservative,false,true,false,Agreed To,105410
+44,1,2022-03-24T18:13:00,47,Mr.,Red Deer—Mountain View,Nay,Earl,Dreeshen,Alberta,Conservative,false,true,false,Agreed To,59226
+44,1,2022-03-24T18:13:00,47,Mr.,Glengarry—Prescott—Russell,Yea,Francis,Drouin,Ontario,Liberal,true,false,false,Agreed To,88756
+44,1,2022-03-24T18:13:00,47,Mr.,Bourassa,Yea,Emmanuel,Dubourg,Quebec,Liberal,true,false,false,Agreed To,84660
+44,1,2022-03-24T18:13:00,47,Mr.,Québec,Yea,Jean-Yves,Duclos,Quebec,Liberal,true,false,false,Agreed To,89408
+44,1,2022-03-24T18:13:00,47,Mr.,Winnipeg South,Yea,Terry,Duguid,Manitoba,Liberal,true,false,false,Agreed To,31119
+44,1,2022-03-24T18:13:00,47,Mr.,Stormont—Dundas—South Glengarry,Nay,Eric,Duncan,Ontario,Conservative,false,true,false,Agreed To,105422
+44,1,2022-03-24T18:13:00,47,Ms.,Etobicoke North,Yea,Kirsty,Duncan,Ontario,Liberal,true,false,false,Agreed To,58877
+44,1,2022-03-24T18:13:00,47,Ms.,Davenport,Yea,Julie,Dzerowicz,Ontario,Liberal,true,false,false,Agreed To,88721
+44,1,2022-03-24T18:13:00,47,Mr.,Willowdale,Yea,Ali,Ehsassi,Ontario,Liberal,true,false,false,Agreed To,89010
+44,1,2022-03-24T18:13:00,47,Mr.,Laval—Les Îles,Yea,Fayçal,El-Khoury,Quebec,Liberal,true,false,false,Agreed To,88515
+44,1,2022-03-24T18:13:00,47,Mr.,Cumberland—Colchester,Nay,Stephen,Ellis,Nova Scotia,Conservative,false,true,false,Agreed To,109905
+44,1,2022-03-24T18:13:00,47,Mr.,Chatham-Kent—Leamington,Nay,Dave,Epp,Ontario,Conservative,false,true,false,Agreed To,105082
+44,1,2022-03-24T18:13:00,47,Mr.,Beaches—East York,Yea,Nathaniel,Erskine-Smith,Ontario,Liberal,true,false,false,Agreed To,88687
+44,1,2022-03-24T18:13:00,47,Mrs.,Battlefords—Lloydminster,Nay,Rosemarie,Falk,Saskatchewan,Conservative,false,true,false,Agreed To,98749
+44,1,2022-03-24T18:13:00,47,Mr.,Provencher,Nay,Ted,Falk,Manitoba,Conservative,false,true,false,Agreed To,84672
+44,1,2022-03-24T18:13:00,47,Mr.,Abbotsford,Nay,Ed,Fast,British Columbia,Conservative,false,true,false,Agreed To,35904
+44,1,2022-03-24T18:13:00,47,Mr.,Hull—Aylmer,Yea,Greg,Fergus,Quebec,Liberal,true,false,false,Agreed To,88478
+44,1,2022-03-24T18:13:00,47,Ms.,Peterborough—Kawartha,Nay,Michelle,Ferreri,Ontario,Conservative,false,true,false,Agreed To,110604
+44,1,2022-03-24T18:13:00,47,Mr.,Halifax,Yea,Andy,Fillmore,Nova Scotia,Liberal,true,false,false,Agreed To,88325
+44,1,2022-03-24T18:13:00,47,Ms.,South Surrey—White Rock,Nay,Kerry-Lynne,Findlay,British Columbia,Conservative,false,true,false,Agreed To,20878
+44,1,2022-03-24T18:13:00,47,Mr.,Dartmouth—Cole Harbour,Yea,Darren,Fisher,Nova Scotia,Liberal,true,false,false,Agreed To,88323
+44,1,2022-03-24T18:13:00,47,Mr.,Mississauga East—Cooksville,Yea,Peter,Fonseca,Ontario,Liberal,true,false,false,Agreed To,71692
+44,1,2022-03-24T18:13:00,47,Mrs.,Ottawa—Vanier,Yea,Mona,Fortier,Ontario,Liberal,true,false,false,Agreed To,96356
+44,1,2022-03-24T18:13:00,47,Mr.,Rivière-du-Nord,Yea,Rhéal,Fortin,Quebec,Bloc Québécois,true,false,false,Agreed To,88605
+44,1,2022-03-24T18:13:00,47,Mr.,London North Centre,Yea,Peter,Fragiskatos,Ontario,Liberal,true,false,false,Agreed To,88827
+44,1,2022-03-24T18:13:00,47,Mr.,Central Nova,Yea,Sean,Fraser,Nova Scotia,Liberal,true,false,false,Agreed To,88316
+44,1,2022-03-24T18:13:00,47,Ms.,University—Rosedale,Yea,Chrystia,Freeland,Ontario,Liberal,true,false,false,Agreed To,84665
+44,1,2022-03-24T18:13:00,47,Mr.,Mississauga—Malton,Yea,Iqwinder,Gaheer,Ontario,Liberal,true,false,false,Agreed To,110534
+44,1,2022-03-24T18:13:00,47,Mrs.,Renfrew—Nipissing—Pembroke,Nay,Cheryl,Gallant,Ontario,Conservative,false,true,false,Agreed To,1809
+44,1,2022-03-24T18:13:00,47,Mr.,Notre-Dame-de-Grâce—Westmount,Yea,Marc,Garneau,Quebec,Liberal,true,false,false,Agreed To,10524
+44,1,2022-03-24T18:13:00,47,Mr.,Mirabel,Yea,Jean-Denis,Garon,Quebec,Bloc Québécois,true,false,false,Agreed To,110189
+44,1,2022-03-24T18:13:00,47,Mr.,Esquimalt—Saanich—Sooke,Yea,Randall,Garrison,British Columbia,NDP,true,false,false,Agreed To,71995
+44,1,2022-03-24T18:13:00,47,Ms.,Laurentides—Labelle,Yea,Marie-Hélène,Gaudreau,Quebec,Bloc Québécois,true,false,false,Agreed To,104806
+44,1,2022-03-24T18:13:00,47,Ms.,Winnipeg Centre,Yea,Leah,Gazan,Manitoba,NDP,true,false,false,Agreed To,87121
+44,1,2022-03-24T18:13:00,47,Mr.,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup,Nay,Bernard,Généreux,Quebec,Conservative,false,true,false,Agreed To,63908
+44,1,2022-03-24T18:13:00,47,Mr.,Sherwood Park—Fort Saskatchewan,Nay,Garnett,Genuis,Alberta,Conservative,false,true,false,Agreed To,89226
+44,1,2022-03-24T18:13:00,47,Mr.,Kingston and the Islands,Yea,Mark,Gerretsen,Ontario,Liberal,true,false,false,Agreed To,88802
+44,1,2022-03-24T18:13:00,47,Mrs.,Manicouagan,Yea,Marilène,Gill,Quebec,Bloc Québécois,true,false,false,Agreed To,88538
+44,1,2022-03-24T18:13:00,47,Ms.,Sarnia—Lambton,Nay,Marilyn,Gladu,Ontario,Conservative,false,true,false,Agreed To,88938
+44,1,2022-03-24T18:13:00,47,Mr.,Portneuf—Jacques-Cartier,Nay,Joël,Godin,Quebec,Conservative,false,true,false,Agreed To,89407
+44,1,2022-03-24T18:13:00,47,Mrs.,Fort McMurray—Cold Lake,Nay,Laila,Goodridge,Alberta,Conservative,false,true,false,Agreed To,110918
+44,1,2022-03-24T18:13:00,47,Ms.,Burlington,Yea,Karina,Gould,Ontario,Liberal,true,false,false,Agreed To,88715
+44,1,2022-03-24T18:13:00,47,Mr.,Lévis—Lotbinière,Nay,Jacques,Gourde,Quebec,Conservative,false,true,false,Agreed To,35397
+44,1,2022-03-24T18:13:00,47,Mrs.,Kelowna—Lake Country,Nay,Tracy,Gray,British Columbia,Conservative,false,true,false,Agreed To,105802
+44,1,2022-03-24T18:13:00,47,Mr.,Hamilton Centre,Yea,Matthew,Green,Ontario,NDP,true,false,false,Agreed To,93023
+44,1,2022-03-24T18:13:00,47,Mr.,Laurier—Sainte-Marie,Yea,Steven,Guilbeault,Quebec,Liberal,true,false,false,Agreed To,14171
+44,1,2022-03-24T18:13:00,47,Ms.,Thunder Bay—Superior North,Yea,Patty,Hajdu,Ontario,Liberal,true,false,false,Agreed To,88984
+44,1,2022-03-24T18:13:00,47,Mr.,Calgary Forest Lawn,Nay,Jasraj Singh,Hallan,Alberta,Conservative,false,true,false,Agreed To,105630
+44,1,2022-03-24T18:13:00,47,Mr.,Yukon,Yea,Brendan,Hanley,Yukon,Liberal,true,false,false,Agreed To,111109
+44,1,2022-03-24T18:13:00,47,Mr.,Fleetwood—Port Kells,Yea,Ken,Hardie,British Columbia,Liberal,true,false,false,Agreed To,89274
+44,1,2022-03-24T18:13:00,47,Ms.,Hamilton Mountain,Yea,Lisa,Hepfner,Ontario,Liberal,true,false,false,Agreed To,110446
+44,1,2022-03-24T18:13:00,47,Mr.,Prince Albert,Nay,Randy,Hoback,Saskatchewan,Conservative,false,true,false,Agreed To,59148
+44,1,2022-03-24T18:13:00,47,Mr.,Ajax,Yea,Mark,Holland,Ontario,Liberal,true,false,false,Agreed To,25508
+44,1,2022-03-24T18:13:00,47,Mr.,Mount Royal,Yea,Anthony,Housefather,Quebec,Liberal,true,false,false,Agreed To,88558
+44,1,2022-03-24T18:13:00,47,Mrs.,Algoma—Manitoulin—Kapuskasing,Yea,Carol,Hughes,Ontario,NDP,true,false,false,Agreed To,31289
+44,1,2022-03-24T18:13:00,47,Mr.,York South—Weston,Yea,Ahmed,Hussen,Ontario,Liberal,true,false,false,Agreed To,89020
+44,1,2022-03-24T18:13:00,47,Ms.,Long Range Mountains,Yea,Gudie,Hutchings,Newfoundland and Labrador,Liberal,true,false,false,Agreed To,88292
+44,1,2022-03-24T18:13:00,47,Mr.,Alfred-Pellan,Yea,Angelo,Iacono,Quebec,Liberal,true,false,false,Agreed To,71337
+44,1,2022-03-24T18:13:00,47,Ms.,Nunavut,Yea,Lori,Idlout,Nunavut,NDP,true,false,false,Agreed To,111116
+44,1,2022-03-24T18:13:00,47,Ms.,Toronto Centre,Yea,Marci,Ien,Ontario,Liberal,true,false,false,Agreed To,107097
+44,1,2022-03-24T18:13:00,47,Ms.,Markham—Stouffville,Yea,Helena,Jaczek,Ontario,Liberal,true,false,false,Agreed To,105229
+44,1,2022-03-24T18:13:00,47,Mr.,Edmonton Riverbend,Nay,Matt,Jeneroux,Alberta,Conservative,false,true,false,Agreed To,89167
+44,1,2022-03-24T18:13:00,47,Mr.,Courtenay—Alberni,Yea,Gord,Johns,British Columbia,NDP,true,false,false,Agreed To,89263
+44,1,2022-03-24T18:13:00,47,Ms.,Ahuntsic-Cartierville,Yea,Mélanie,Joly,Quebec,Liberal,true,false,false,Agreed To,88384
+44,1,2022-03-24T18:13:00,47,Ms.,Labrador,Yea,Yvonne,Jones,Newfoundland and Labrador,Liberal,true,false,false,Agreed To,13218
+44,1,2022-03-24T18:13:00,47,Mr.,Richmond Hill,Yea,Majid,Jowhari,Ontario,Liberal,true,false,false,Agreed To,88929
+44,1,2022-03-24T18:13:00,47,Mr.,New Westminster—Burnaby,Yea,Peter,Julian,British Columbia,NDP,true,false,false,Agreed To,16399
+44,1,2022-03-24T18:13:00,47,Ms.,London West,Yea,Arielle,Kayabaga,Ontario,Liberal,true,false,false,Agreed To,110502
+44,1,2022-03-24T18:13:00,47,Mr.,Cape Breton—Canso,Yea,Mike,Kelloway,Nova Scotia,Liberal,true,false,false,Agreed To,104531
+44,1,2022-03-24T18:13:00,47,Mr.,Calgary Rocky Ridge,Nay,Pat,Kelly,Alberta,Conservative,false,true,false,Agreed To,89130
+44,1,2022-03-24T18:13:00,47,Ms.,Mississauga—Erin Mills,Yea,Iqra,Khalid,Ontario,Liberal,true,false,false,Agreed To,88849
+44,1,2022-03-24T18:13:00,47,Ms.,Brampton West,Yea,Kamal,Khera,Ontario,Liberal,true,false,false,Agreed To,88705
+44,1,2022-03-24T18:13:00,47,Mr.,Souris—Moose Mountain,Nay,Robert,Kitchen,Saskatchewan,Conservative,false,true,false,Agreed To,89095
+44,1,2022-03-24T18:13:00,47,Mr.,Calgary Shepard,Nay,Tom,Kmiec,Alberta,Conservative,false,true,false,Agreed To,89136
+44,1,2022-03-24T18:13:00,47,Ms.,Vimy,Yea,Annie,Koutrakis,Quebec,Liberal,true,false,false,Agreed To,105009
+44,1,2022-03-24T18:13:00,47,Mr.,Regina—Wascana,Nay,Michael,Kram,Saskatchewan,Conservative,false,true,false,Agreed To,89080
+44,1,2022-03-24T18:13:00,47,Mrs.,Hastings—Lennox and Addington,Nay,Shelby,Kramp-Neuman,Ontario,Conservative,false,true,false,Agreed To,110454
+44,1,2022-03-24T18:13:00,47,Mr.,Battle River—Crowfoot,Nay,Damien,Kurek,Alberta,Conservative,false,true,false,Agreed To,105614
+44,1,2022-03-24T18:13:00,47,Mrs.,Calgary Midnapore,Nay,Stephanie,Kusie,Alberta,Conservative,false,true,false,Agreed To,96367
+44,1,2022-03-24T18:13:00,47,Mr.,Windsor—Tecumseh,Yea,Irek,Kusmierczyk,Ontario,Liberal,true,false,false,Agreed To,71820
+44,1,2022-03-24T18:13:00,47,Ms.,Vancouver East,Yea,Jenny,Kwan,British Columbia,NDP,true,false,false,Agreed To,89346
+44,1,2022-03-24T18:13:00,47,Mr.,Edmonton—Wetaskiwin,Nay,Mike,Lake,Alberta,Conservative,false,true,false,Agreed To,35857
+44,1,2022-03-24T18:13:00,47,Mrs.,Orléans,Yea,Marie-France,Lalonde,Ontario,Liberal,true,false,false,Agreed To,92209
+44,1,2022-03-24T18:13:00,47,Ms.,Saint-Laurent,Yea,Emmanuella,Lambropoulos,Quebec,Liberal,true,false,false,Agreed To,96350
+44,1,2022-03-24T18:13:00,47,Mr.,LaSalle—Émard—Verdun,Yea,David,Lametti,Quebec,Liberal,true,false,false,Agreed To,88501
+44,1,2022-03-24T18:13:00,47,Mr.,Winnipeg North,Yea,Kevin,Lamoureux,Manitoba,Liberal,true,false,false,Agreed To,30552
+44,1,2022-03-24T18:13:00,47,Ms.,Thornhill,Nay,Melissa,Lantsman,Ontario,Conservative,false,true,false,Agreed To,110665
+44,1,2022-03-24T18:13:00,47,Ms.,Sudbury,Yea,Viviane,Lapointe,Ontario,Liberal,true,false,false,Agreed To,110663
+44,1,2022-03-24T18:13:00,47,Ms.,Shefford,Yea,Andréanne,Larouche,Quebec,Bloc Québécois,true,false,false,Agreed To,104973
+44,1,2022-03-24T18:13:00,47,Ms.,Saint-Léonard—Saint-Michel,Yea,Patricia,Lattanzio,Quebec,Liberal,true,false,false,Agreed To,104957
+44,1,2022-03-24T18:13:00,47,Mr.,Argenteuil—La Petite-Nation,Yea,Stéphane,Lauzon,Quebec,Liberal,true,false,false,Agreed To,88394
+44,1,2022-03-24T18:13:00,47,Mr.,Northumberland—Peterborough South,Nay,Philip,Lawrence,Ontario,Conservative,false,true,false,Agreed To,105291
+44,1,2022-03-24T18:13:00,47,Mr.,Beauséjour,Yea,Dominic,LeBlanc,New Brunswick,Liberal,true,false,false,Agreed To,1813
+44,1,2022-03-24T18:13:00,47,Mrs.,Gaspésie—Les Îles-de-la-Madeleine,Yea,Diane,Lebouthillier,Quebec,Liberal,true,false,false,Agreed To,88460
+44,1,2022-03-24T18:13:00,47,Mr.,Beauce,Nay,Richard,Lehoux,Quebec,Conservative,false,true,false,Agreed To,104653
+44,1,2022-03-24T18:13:00,47,Mr.,Abitibi—Témiscamingue,Yea,Sébastien,Lemire,Quebec,Bloc Québécois,true,false,false,Agreed To,104630
+44,1,2022-03-24T18:13:00,47,Ms.,Haldimand—Norfolk,Nay,Leslyn,Lewis,Ontario,Conservative,false,true,false,Agreed To,88958
+44,1,2022-03-24T18:13:00,47,Mr.,Essex,Nay,Chris,Lewis,Ontario,Conservative,false,true,false,Agreed To,105120
+44,1,2022-03-24T18:13:00,47,Mr.,Calgary Signal Hill,Nay,Ron,Liepert,Alberta,Conservative,false,true,false,Agreed To,89139
+44,1,2022-03-24T18:13:00,47,Mr.,Louis-Hébert,Yea,Joël,Lightbound,Quebec,Liberal,true,false,false,Agreed To,88532
+44,1,2022-03-24T18:13:00,47,Mr.,Sturgeon River—Parkland,Nay,Dane,Lloyd,Alberta,Conservative,false,true,false,Agreed To,98079
+44,1,2022-03-24T18:13:00,47,Mr.,Huron—Bruce,Nay,Ben,Lobb,Ontario,Conservative,false,true,false,Agreed To,35600
+44,1,2022-03-24T18:13:00,47,Mr.,Saint John—Rothesay,Yea,Wayne,Long,New Brunswick,Liberal,true,false,false,Agreed To,88368
+44,1,2022-03-24T18:13:00,47,Mr.,Guelph,Yea,Lloyd,Longfield,Ontario,Liberal,true,false,false,Agreed To,88761
+44,1,2022-03-24T18:13:00,47,Mr.,Kitchener—Conestoga,Yea,Tim,Louis,Ontario,Liberal,true,false,false,Agreed To,88810
+44,1,2022-03-24T18:13:00,47,Mr.,Cardigan,Yea,Lawrence,MacAulay,Prince Edward Island,Liberal,true,false,false,Agreed To,33
+44,1,2022-03-24T18:13:00,47,Mr.,Malpeque,Yea,Heath,MacDonald,Prince Edward Island,Liberal,true,false,false,Agreed To,109891
+44,1,2022-03-24T18:13:00,47,Mr.,Cowichan—Malahat—Langford,Yea,Alistair,MacGregor,British Columbia,NDP,true,false,false,Agreed To,89269
+44,1,2022-03-24T18:13:00,47,Mr.,Oxford,Nay,Dave,MacKenzie,Ontario,Conservative,false,true,false,Agreed To,891
+44,1,2022-03-24T18:13:00,47,Mr.,Gatineau,Yea,Steven,MacKinnon,Quebec,Liberal,true,false,false,Agreed To,88468
+44,1,2022-03-24T18:13:00,47,Mr.,Brandon—Souris,Nay,Larry,Maguire,Manitoba,Conservative,false,true,false,Agreed To,7251
+44,1,2022-03-24T18:13:00,47,Mr.,Etobicoke—Lakeshore,Yea,James,Maloney,Ontario,Liberal,true,false,false,Agreed To,88748
+44,1,2022-03-24T18:13:00,47,Mr.,Chicoutimi—Le Fjord,Nay,Richard,Martel,Quebec,Conservative,false,true,false,Agreed To,100521
+44,1,2022-03-24T18:13:00,47,Ms.,Hochelaga,Yea,Soraya,Martinez Ferrada,Quebec,Liberal,true,false,false,Agreed To,104756
+44,1,2022-03-24T18:13:00,47,Mr.,Windsor West,Yea,Brian,Masse,Ontario,NDP,true,false,false,Agreed To,9137
+44,1,2022-03-24T18:13:00,47,Ms.,London—Fanshawe,Yea,Lindsay,Mathyssen,Ontario,NDP,true,false,false,Agreed To,105221
+44,1,2022-03-24T18:13:00,47,Ms.,Saanich—Gulf Islands,Yea,Elizabeth,May,British Columbia,Green Party,true,false,false,Agreed To,2897
+44,1,2022-03-24T18:13:00,47,Mr.,Cambridge,Yea,Bryan,May,Ontario,Liberal,true,false,false,Agreed To,71599
+44,1,2022-03-24T18:13:00,47,Mr.,Dauphin—Swan River—Neepawa,Nay,Dan,Mazier,Manitoba,Conservative,false,true,false,Agreed To,3306
+44,1,2022-03-24T18:13:00,47,Mr.,Edmonton West,Nay,Kelly,McCauley,Alberta,Conservative,false,true,false,Agreed To,89179
+44,1,2022-03-24T18:13:00,47,Mr.,Avalon,Yea,Ken,McDonald,Newfoundland and Labrador,Liberal,true,false,false,Agreed To,88283
+44,1,2022-03-24T18:13:00,47,Mr.,Ottawa South,Yea,David,McGuinty,Ontario,Liberal,true,false,false,Agreed To,9486
+44,1,2022-03-24T18:13:00,47,Mr.,Scarborough—Guildwood,Yea,John,McKay,Ontario,Liberal,true,false,false,Agreed To,957
+44,1,2022-03-24T18:13:00,47,Mr.,Coquitlam—Port Coquitlam,Yea,Ron,McKinnon,British Columbia,Liberal,true,false,false,Agreed To,59293
+44,1,2022-03-24T18:13:00,47,Mr.,Northwest Territories,Yea,Michael,McLeod,Northwest Territories,Liberal,true,false,false,Agreed To,89374
+44,1,2022-03-24T18:13:00,47,Ms.,Edmonton Strathcona,Yea,Heather,McPherson,Alberta,NDP,true,false,false,Agreed To,105689
+44,1,2022-03-24T18:13:00,47,Mr.,Kenora,Nay,Eric,Melillo,Ontario,Conservative,false,true,false,Agreed To,105186
+44,1,2022-03-24T18:13:00,47,Mrs.,Brossard—Saint-Lambert,Yea,Alexandra,Mendès,Quebec,Liberal,true,false,false,Agreed To,58621
+44,1,2022-03-24T18:13:00,47,Mr.,Eglinton—Lawrence,Yea,Marco,Mendicino,Ontario,Liberal,true,false,false,Agreed To,88738
+44,1,2022-03-24T18:13:00,47,Mr.,Richmond Centre,Yea,Wilson,Miao,British Columbia,Liberal,true,false,false,Agreed To,111048
+44,1,2022-03-24T18:13:00,47,Ms.,Avignon—La Mitis—Matane—Matapédia,Yea,Kristina,Michaud,Quebec,Bloc Québécois,true,false,false,Agreed To,104648
+44,1,2022-03-24T18:13:00,47,Mr.,Ville-Marie—Le Sud-Ouest—Île-des-Soeurs,Yea,Marc,Miller,Quebec,Liberal,true,false,false,Agreed To,88660
+44,1,2022-03-24T18:13:00,47,Mr.,Fundy Royal,Nay,Rob,Moore,New Brunswick,Conservative,false,true,false,Agreed To,17210
+44,1,2022-03-24T18:13:00,47,Mr.,Charleswood—St. James—Assiniboia—Headingley,Nay,Marty,Morantz,Manitoba,Conservative,false,true,false,Agreed To,105511
+44,1,2022-03-24T18:13:00,47,Mr.,Kitchener Centre,Yea,Mike,Morrice,Ontario,Green Party,true,false,false,Agreed To,110476
+44,1,2022-03-24T18:13:00,47,Mr.,Kootenay—Columbia,Nay,Rob,Morrison,British Columbia,Conservative,false,true,false,Agreed To,105807
+44,1,2022-03-24T18:13:00,47,Mr.,Egmont,Yea,Robert,Morrissey,Prince Edward Island,Liberal,true,false,false,Agreed To,88308
+44,1,2022-03-24T18:13:00,47,Mr.,Medicine Hat—Cardston—Warner,Nay,Glen,Motz,Alberta,Conservative,false,true,false,Agreed To,94305
+44,1,2022-03-24T18:13:00,47,Ms.,Vancouver Quadra,Yea,Joyce,Murray,British Columbia,Liberal,true,false,false,Agreed To,35950
+44,1,2022-03-24T18:13:00,47,Mr.,Flamborough—Glanbrook,Nay,Dan,Muys,Ontario,Conservative,false,true,false,Agreed To,110415
+44,1,2022-03-24T18:13:00,47,Mr.,Ottawa Centre,Yea,Yasir,Naqvi,Ontario,Liberal,true,false,false,Agreed To,110572
+44,1,2022-03-24T18:13:00,47,Mr.,Perth—Wellington,Nay,John,Nater,Ontario,Conservative,false,true,false,Agreed To,88917
+44,1,2022-03-24T18:13:00,47,Ms.,Markham—Thornhill,Yea,Mary,Ng,Ontario,Liberal,true,false,false,Agreed To,96352
+44,1,2022-03-24T18:13:00,47,Mr.,Vancouver Granville,Yea,Taleeb,Noormohamed,British Columbia,Liberal,true,false,false,Agreed To,72023
+44,1,2022-03-24T18:13:00,47,Ms.,Saint-Jean,Yea,Christine,Normandin,Quebec,Bloc Québécois,true,false,false,Agreed To,104947
+44,1,2022-03-24T18:13:00,47,Ms.,Pickering—Uxbridge,Yea,Jennifer,O'Connell,Ontario,Liberal,true,false,false,Agreed To,88925
+44,1,2022-03-24T18:13:00,47,Mr.,Don Valley West,Yea,Robert,Oliphant,Ontario,Liberal,true,false,false,Agreed To,58858
+44,1,2022-03-24T18:13:00,47,Mr.,St. John's South—Mount Pearl,Yea,Seamus,O'Regan,Newfoundland and Labrador,Liberal,true,false,false,Agreed To,88299
+44,1,2022-03-24T18:13:00,47,Mr.,Durham,Nay,Erin,O'Toole,Ontario,Conservative,false,true,false,Agreed To,72773
+44,1,2022-03-24T18:13:00,47,Mr.,Cypress Hills—Grasslands,Nay,Jeremy,Patzer,Saskatchewan,Conservative,false,true,false,Agreed To,105559
+44,1,2022-03-24T18:13:00,47,Mr.,Charlesbourg—Haute-Saint-Charles,Nay,Pierre,Paul-Hus,Quebec,Conservative,false,true,false,Agreed To,71454
+44,1,2022-03-24T18:13:00,47,Ms.,Repentigny,Yea,Monique,Pauzé,Quebec,Bloc Québécois,true,false,false,Agreed To,88595
+44,1,2022-03-24T18:13:00,47,Mr.,South Shore—St. Margarets,Nay,Rick,Perkins,Nova Scotia,Conservative,false,true,false,Agreed To,109922
+44,1,2022-03-24T18:13:00,47,Mr.,Berthier—Maskinongé,Yea,Yves,Perron,Quebec,Bloc Québécois,true,false,false,Agreed To,88418
+44,1,2022-03-24T18:13:00,47,Ms.,Moncton—Riverview—Dieppe,Yea,Ginette,Petitpas Taylor,New Brunswick,Liberal,true,false,false,Agreed To,88364
+44,1,2022-03-24T18:13:00,47,Mr.,Bécancour—Nicolet—Saurel,Yea,Louis,Plamondon,Quebec,Bloc Québécois,true,false,false,Agreed To,413
+44,1,2022-03-24T18:13:00,47,Mr.,Carleton,Nay,Pierre,Poilievre,Ontario,Conservative,false,true,false,Agreed To,25524
+44,1,2022-03-24T18:13:00,47,Mr.,Thunder Bay—Rainy River,Yea,Marcus,Powlowski,Ontario,Liberal,true,false,false,Agreed To,105437
+44,1,2022-03-24T18:13:00,47,Ms.,Delta,Yea,Carla,Qualtrough,British Columbia,Liberal,true,false,false,Agreed To,89272
+44,1,2022-03-24T18:13:00,47,Mr.,Richmond—Arthabaska,Nay,Alain,Rayes,Quebec,Conservative,false,true,false,Agreed To,88600
+44,1,2022-03-24T18:13:00,47,Mr.,Saskatoon West,Nay,Brad,Redekopp,Saskatchewan,Conservative,false,true,false,Agreed To,105598
+44,1,2022-03-24T18:13:00,47,Mr.,Lanark—Frontenac—Kingston,Nay,Scott,Reid,Ontario,Conservative,false,true,false,Agreed To,1827
+44,1,2022-03-24T18:13:00,47,Mr.,Banff—Airdrie,Nay,Blake,Richards,Alberta,Conservative,false,true,false,Agreed To,59235
+44,1,2022-03-24T18:13:00,47,Mrs.,King—Vaughan,Nay,Anna,Roberts,Ontario,Conservative,false,true,false,Agreed To,105191
+44,1,2022-03-24T18:13:00,47,Mr.,Marc-Aurèle-Fortin,Yea,Yves,Robillard,Quebec,Liberal,true,false,false,Agreed To,88617
+44,1,2022-03-24T18:13:00,47,Mr.,Honoré-Mercier,Yea,Pablo,Rodriguez,Quebec,Liberal,true,false,false,Agreed To,25451
+44,1,2022-03-24T18:13:00,47,Mr.,Bonavista—Burin—Trinity,Yea,Churence,Rogers,Newfoundland and Labrador,Liberal,true,false,false,Agreed To,98744
+44,1,2022-03-24T18:13:00,47,Mrs.,Longueuil—Charles-LeMoyne,Yea,Sherry,Romanado,Quebec,Liberal,true,false,false,Agreed To,88521
+44,1,2022-03-24T18:13:00,47,Ms.,Lambton—Kent—Middlesex,Nay,Lianne,Rood,Ontario,Conservative,false,true,false,Agreed To,105210
+44,1,2022-03-24T18:13:00,47,Mr.,Bruce—Grey—Owen Sound,Nay,Alex,Ruff,Ontario,Conservative,false,true,false,Agreed To,105070
+44,1,2022-03-24T18:13:00,47,Ms.,Brampton North,Yea,Ruby,Sahota,Ontario,Liberal,true,false,false,Agreed To,88698
+44,1,2022-03-24T18:13:00,47,Mr.,Vancouver South,Yea,Harjit S.,Sajjan,British Columbia,Liberal,true,false,false,Agreed To,89497
+44,1,2022-03-24T18:13:00,47,Ms.,York Centre,Yea,Ya'ara,Saks,Ontario,Liberal,true,false,false,Agreed To,107099
+44,1,2022-03-24T18:13:00,47,Mr.,Sackville—Preston—Chezzetcook,Yea,Darrell,Samson,Nova Scotia,Liberal,true,false,false,Agreed To,88333
+44,1,2022-03-24T18:13:00,47,Mr.,Surrey Centre,Yea,Randeep,Sarai,British Columbia,Liberal,true,false,false,Agreed To,89339
+44,1,2022-03-24T18:13:00,47,Mr.,Saint-Hyacinthe—Bagot,Yea,Simon-Pierre,Savard-Tremblay,Quebec,Bloc Québécois,true,false,false,Agreed To,104944
+44,1,2022-03-24T18:13:00,47,Mr.,Lac-Saint-Louis,Yea,Francis,Scarpaleggia,Quebec,Liberal,true,false,false,Agreed To,25453
+44,1,2022-03-24T18:13:00,47,Mr.,Regina—Qu'Appelle,Nay,Andrew,Scheer,Saskatchewan,Conservative,false,true,false,Agreed To,25454
+44,1,2022-03-24T18:13:00,47,Mr.,Vaudreuil—Soulanges,Yea,Peter,Schiefke,Quebec,Liberal,true,false,false,Agreed To,88649
+44,1,2022-03-24T18:13:00,47,Mr.,Haliburton—Kawartha Lakes—Brock,Nay,Jamie,Schmale,Ontario,Conservative,false,true,false,Agreed To,88770
+44,1,2022-03-24T18:13:00,47,Mr.,Dufferin—Caledon,Nay,Kyle,Seeback,Ontario,Conservative,false,true,false,Agreed To,58841
+44,1,2022-03-24T18:13:00,47,Mr.,Nickel Belt,Yea,Marc,Serré,Ontario,Liberal,true,false,false,Agreed To,88874
+44,1,2022-03-24T18:13:00,47,Ms.,Humber River—Black Creek,Yea,Judy A.,Sgro,Ontario,Liberal,true,false,false,Agreed To,1787
+44,1,2022-03-24T18:13:00,47,Mrs.,Châteauguay—Lacolle,Yea,Brenda,Shanahan,Quebec,Liberal,true,false,false,Agreed To,88442
+44,1,2022-03-24T18:13:00,47,Mr.,Sault Ste. Marie,Yea,Terry,Sheehan,Ontario,Liberal,true,false,false,Agreed To,88944
+44,1,2022-03-24T18:13:00,47,Mr.,Bow River,Nay,Martin,Shields,Alberta,Conservative,false,true,false,Agreed To,89109
+44,1,2022-03-24T18:13:00,47,Mr.,Barrie—Springwater—Oro-Medonte,Nay,Doug,Shipley,Ontario,Conservative,false,true,false,Agreed To,105031
+44,1,2022-03-24T18:13:00,47,Mr.,Brampton East,Yea,Maninder,Sidhu,Ontario,Liberal,true,false,false,Agreed To,105045
+44,1,2022-03-24T18:13:00,47,Ms.,Brampton South,Yea,Sonia,Sidhu,Ontario,Liberal,true,false,false,Agreed To,88703
+44,1,2022-03-24T18:13:00,47,Mr.,Jonquière,Yea,Mario,Simard,Quebec,Bloc Québécois,true,false,false,Agreed To,104773
+44,1,2022-03-24T18:13:00,47,Ms.,Terrebonne,Yea,Nathalie,Sinclair-Desgagné,Quebec,Bloc Québécois,true,false,false,Agreed To,110300
+44,1,2022-03-24T18:13:00,47,Mr.,Burnaby South,Yea,Jagmeet,Singh,British Columbia,NDP,true,false,false,Agreed To,71588
+44,1,2022-03-24T18:13:00,47,Mr.,Coast of Bays—Central—Notre Dame,Nay,Clifford,Small,Newfoundland and Labrador,Conservative,false,true,false,Agreed To,109867
+44,1,2022-03-24T18:13:00,47,Mr.,Vaughan—Woodbridge,Yea,Francesco,Sorbara,Ontario,Liberal,true,false,false,Agreed To,88999
+44,1,2022-03-24T18:13:00,47,Mr.,Yellowhead,Nay,Gerald,Soroka,Alberta,Conservative,false,true,false,Agreed To,105751
+44,1,2022-03-24T18:13:00,47,Mr.,Mississauga—Lakeshore,Yea,Sven,Spengemann,Ontario,Liberal,true,false,false,Agreed To,88852
+44,1,2022-03-24T18:13:00,47,Mr.,Regina—Lewvan,Nay,Warren,Steinley,Saskatchewan,Conservative,false,true,false,Agreed To,105581
+44,1,2022-03-24T18:13:00,47,Mr.,Joliette,Yea,Gabriel,Ste-Marie,Quebec,Bloc Québécois,true,false,false,Agreed To,88485
+44,1,2022-03-24T18:13:00,47,Mr.,Miramichi—Grand Lake,Nay,Jake,Stewart,New Brunswick,Conservative,false,true,false,Agreed To,109951
+44,1,2022-03-24T18:13:00,47,Mrs.,Brome—Missisquoi,Yea,Pascale,St-Onge,Quebec,Liberal,true,false,false,Agreed To,110044
+44,1,2022-03-24T18:13:00,47,Mr.,Chilliwack—Hope,Nay,Mark,Strahl,British Columbia,Conservative,false,true,false,Agreed To,71986
+44,1,2022-03-24T18:13:00,47,Mrs.,Lakeland,Nay,Shannon,Stubbs,Alberta,Conservative,false,true,false,Agreed To,89198
+44,1,2022-03-24T18:13:00,47,Mrs.,Kanata—Carleton,Yea,Jenna,Sudds,Ontario,Liberal,true,false,false,Agreed To,110459
+44,1,2022-03-24T18:13:00,47,Ms.,Hamilton West—Ancaster—Dundas,Yea,Filomena,Tassi,Ontario,Liberal,true,false,false,Agreed To,88784
+44,1,2022-03-24T18:13:00,47,Ms.,Aurora—Oak Ridges—Richmond Hill,Yea,Leah,Taylor Roy,Ontario,Liberal,true,false,false,Agreed To,105024
+44,1,2022-03-24T18:13:00,47,Mr.,Montcalm,Yea,Luc,Thériault,Quebec,Bloc Québécois,true,false,false,Agreed To,88552
+44,1,2022-03-24T18:13:00,47,Mr.,La Prairie,Yea,Alain,Therrien,Quebec,Bloc Québécois,true,false,false,Agreed To,104783
+44,1,2022-03-24T18:13:00,47,Mrs.,Lethbridge,Nay,Rachael,Thomas,Alberta,Conservative,false,true,false,Agreed To,89200
+44,1,2022-03-24T18:13:00,47,Ms.,St. John's East,Yea,Joanne,Thompson,Newfoundland and Labrador,Liberal,true,false,false,Agreed To,109877
+44,1,2022-03-24T18:13:00,47,Mr.,Saskatoon—University,Nay,Corey,Tochor,Saskatchewan,Conservative,false,true,false,Agreed To,84882
+44,1,2022-03-24T18:13:00,47,Mr.,Moose Jaw—Lake Centre—Lanigan,Nay,Fraser,Tolmie,Saskatchewan,Conservative,false,true,false,Agreed To,110800
+44,1,2022-03-24T18:13:00,47,Mr.,Longueuil—Saint-Hubert,Yea,Denis,Trudel,Quebec,Bloc Québécois,true,false,false,Agreed To,88530
+44,1,2022-03-24T18:13:00,47,Mr.,Whitby,Yea,Ryan,Turnbull,Ontario,Liberal,true,false,false,Agreed To,105480
+44,1,2022-03-24T18:13:00,47,Mr.,Edmonton Mill Woods,Nay,Tim,Uppal,Alberta,Conservative,false,true,false,Agreed To,30645
+44,1,2022-03-24T18:13:00,47,Mrs.,Mississauga—Streetsville,Yea,Rechie,Valdez,Ontario,Liberal,true,false,false,Agreed To,110538
+44,1,2022-03-24T18:13:00,47,Mr.,Newmarket—Aurora,Yea,Tony,Van Bynen,Ontario,Liberal,true,false,false,Agreed To,105270
+44,1,2022-03-24T18:13:00,47,Mr.,Milton,Yea,Adam,van Koeverden,Ontario,Liberal,true,false,false,Agreed To,105242
+44,1,2022-03-24T18:13:00,47,Mr.,Langley—Aldergrove,Nay,Tako,Van Popta,British Columbia,Conservative,false,true,false,Agreed To,105811
+44,1,2022-03-24T18:13:00,47,Mr.,Saint Boniface—Saint Vital,Yea,Dan,Vandal,Manitoba,Liberal,true,false,false,Agreed To,89045
+44,1,2022-03-24T18:13:00,47,Ms.,Ottawa West—Nepean,Yea,Anita,Vandenbeld,Ontario,Liberal,true,false,false,Agreed To,71738
+44,1,2022-03-24T18:13:00,47,Mrs.,Elgin—Middlesex—London,Nay,Karen,Vecchio,Ontario,Conservative,false,true,false,Agreed To,88742
+44,1,2022-03-24T18:13:00,47,Mr.,Desnethé—Missinippi—Churchill River,Nay,Gary,Vidal,Saskatchewan,Conservative,false,true,false,Agreed To,105562
+44,1,2022-03-24T18:13:00,47,Mrs.,Bellechasse—Les Etchemins—Lévis,Nay,Dominique,Vien,Quebec,Conservative,false,true,false,Agreed To,110009
+44,1,2022-03-24T18:13:00,47,Mr.,Peace River—Westlock,Nay,Arnold,Viersen,Alberta,Conservative,false,true,false,Agreed To,89211
+44,1,2022-03-24T18:13:00,47,Mrs.,Beauport—Limoilou,Yea,Julie,Vignola,Quebec,Bloc Québécois,true,false,false,Agreed To,104656
+44,1,2022-03-24T18:13:00,47,Mr.,Trois-Rivières,Yea,René,Villemure,Quebec,Bloc Québécois,true,false,false,Agreed To,110306
+44,1,2022-03-24T18:13:00,47,Mr.,Parkdale—High Park,Yea,Arif,Virani,Ontario,Liberal,true,false,false,Agreed To,88910
+44,1,2022-03-24T18:13:00,47,Mr.,Mission—Matsqui—Fraser Canyon,Nay,Brad,Vis,British Columbia,Conservative,false,true,false,Agreed To,89289
+44,1,2022-03-24T18:13:00,47,Mr.,Spadina—Fort York,Yea,Kevin,Vuong,Ontario,Independent,true,false,false,Agreed To,110654
+44,1,2022-03-24T18:13:00,47,Mrs.,Yorkton—Melville,Nay,Cathay,Wagantall,Saskatchewan,Conservative,false,true,false,Agreed To,89098
+44,1,2022-03-24T18:13:00,47,Mr.,Grande Prairie—Mackenzie,Nay,Chris,Warkentin,Alberta,Conservative,false,true,false,Agreed To,35886
+44,1,2022-03-24T18:13:00,47,Mr.,Saskatoon—Grasswood,Nay,Kevin,Waugh,Saskatchewan,Conservative,false,true,false,Agreed To,89084
+44,1,2022-03-24T18:13:00,47,Mr.,Calgary Confederation,Nay,Len,Webber,Alberta,Conservative,false,true,false,Agreed To,89116
+44,1,2022-03-24T18:13:00,47,Mr.,West Vancouver—Sunshine Coast—Sea to Sky Country,Yea,Patrick,Weiler,British Columbia,Liberal,true,false,false,Agreed To,105918
+44,1,2022-03-24T18:13:00,47,Mr.,Bay of Quinte,Nay,Ryan,Williams,Ontario,Conservative,false,true,false,Agreed To,110330
+44,1,2022-03-24T18:13:00,47,Mr.,New Brunswick Southwest,Nay,John,Williamson,New Brunswick,Conservative,false,true,false,Agreed To,71323
+44,1,2022-03-24T18:13:00,47,Ms.,Scarborough—Agincourt,Yea,Jean,Yip,Ontario,Liberal,true,false,false,Agreed To,98747
+44,1,2022-03-24T18:13:00,47,Mrs.,Scarborough Centre,Yea,Salma,Zahid,Ontario,Liberal,true,false,false,Agreed To,88950
+44,1,2022-03-24T18:13:00,47,Ms.,Port Moody—Coquitlam,Yea,Bonita,Zarrillo,British Columbia,NDP,true,false,false,Agreed To,105837
+44,1,2022-03-24T18:13:00,47,Mr.,Prince George—Peace River—Northern Rockies,Nay,Bob,Zimmer,British Columbia,Conservative,false,true,false,Agreed To,72035
+44,1,2022-03-24T18:13:00,47,Mr.,Pierrefonds—Dollard,Yea,Sameer,Zuberi,Quebec,Liberal,true,false,false,Agreed To,54157
